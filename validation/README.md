@@ -177,8 +177,18 @@ scripts are provided so you can download the data yourself for your own use:
 | **Sophos State of Ransomware 2024** | © Sophos Ltd. All rights reserved | Cited constants only ($2.73M mean recovery cost, 59% victimization rate); no bulk data |
 | **Exploit-DB** | Terms of Service apply | Data not included; use `build_features2.py` to fetch |
 
-### This Dataset
+### This Project
 
-The compilation, curation, and scoring of this dataset is released under the
-same license as the parent project. The underlying data remains subject to
-the licenses of its original sources.
+**Scripts and code** in this repository (all `.py`, `.sh`, and other script files)
+are licensed under the **GNU General Public License v3.0** (GPL-3.0), as
+provided in the top-level `LICENSE` file.
+
+**Dataset files** (CSV, JSON, text files containing incident data, results, and
+other compiled data) remain subject to the licenses of their original sources
+as described in the tables above. The compilation may be used under the terms
+of the respective source licenses; no additional restriction is asserted over
+the data itself.
+
+This is a **security incident corpus** — a curated, validated collection of
+publicly available IT security incident data. It is **not** a software product
+and is provided for research and analysis purposes only.
