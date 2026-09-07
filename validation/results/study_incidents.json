@@ -1,0 +1,82 @@
+{
+  "n_incidents": 4191,
+  "n_controls": 8312,
+  "overall": {
+    "incident_median": 70.0,
+    "control_median": 23.38,
+    "mannwhitney_p": 0.0,
+    "auc_incident_vs_control": 0.8826531496866767
+  },
+  "level_shares": {
+    "low": {
+      "incidents": {
+        "n": 831,
+        "share": 0.1983
+      },
+      "controls": {
+        "n": 7302,
+        "share": 0.8785
+      }
+    },
+    "medium": {
+      "incidents": {
+        "n": 148,
+        "share": 0.0353
+      },
+      "controls": {
+        "n": 839,
+        "share": 0.1009
+      }
+    },
+    "high": {
+      "incidents": {
+        "n": 1347,
+        "share": 0.3214
+      },
+      "controls": {
+        "n": 116,
+        "share": 0.014
+      }
+    },
+    "critical": {
+      "incidents": {
+        "n": 1865,
+        "share": 0.445
+      },
+      "controls": {
+        "n": 55,
+        "share": 0.0066
+      }
+    }
+  },
+  "tier1": {
+    "n": 743,
+    "median": 70.0,
+    "auc_vs_controls": 0.9854419237878849,
+    "p": 0.0,
+    "pct_high_or_critical": 0.9973082099596231
+  },
+  "tier2": {
+    "n": 3448,
+    "median": 92.65,
+    "auc_vs_controls": 0.8605034805575591,
+    "p": 0.0,
+    "pct_high_or_critical": 0.7166473317865429
+  },
+  "control_pct_high_or_critical": 0.020572666025024063,
+  "zero_day_share": 0.014793605344786447,
+  "zero_day_by_tier": {
+    "tier1": 0.0026917900403768506,
+    "tier2": 0.01740139211136891
+  },
+  "realized_cost": {
+    "n": 0
+  },
+  "window_incidents": 1909,
+  "window_by_tier": {
+    "tier1": 3,
+    "tier2": 1906
+  },
+  "window_median_score": 92.65,
+  "odds_ratio_high_plus": 156.19764767724556
+}

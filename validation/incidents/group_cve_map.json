@@ -1,0 +1,43 @@
+{
+  "_comment": "Ransomware group -> exploited CVEs, grounded in CISA #StopRansomware advisories (fetched via Wayback snapshots, see incidents/raw/cisa_wb_*.html) plus vendor-documented additions. Used for tier-2 (probabilistic) attribution only.",
+  "akira": {
+    "cves": ["CVE-2020-3259", "CVE-2023-20269", "CVE-2024-40766"],
+    "source": "CISA AA24-109A (verified); SonicWall PSIRT Sept 2024 for CVE-2024-40766"
+  },
+  "lockbit3": {
+    "cves": ["CVE-2018-13379", "CVE-2019-0708", "CVE-2020-1472", "CVE-2021-22986", "CVE-2021-44228", "CVE-2023-0669", "CVE-2023-27350", "CVE-2023-4966"],
+    "source": "CISA AA23-165A (verified); CitrixBleed CVE-2023-4966 per CISA AA23-325A"
+  },
+  "lockbit5": {
+    "cves": ["CVE-2018-13379", "CVE-2019-0708", "CVE-2020-1472", "CVE-2021-22986", "CVE-2021-44228", "CVE-2023-0669", "CVE-2023-27350", "CVE-2023-4966"],
+    "source": "same as lockbit3 (rebrand)"
+  },
+  "play": {
+    "cves": ["CVE-2018-13379", "CVE-2020-12812", "CVE-2022-41040", "CVE-2022-41082", "CVE-2023-27532"],
+    "source": "CISA AA23-352A (verified); 2024 update adds Veeam CVE-2023-27532"
+  },
+  "clop": {
+    "cves": ["CVE-2021-27101", "CVE-2023-0669", "CVE-2023-34362", "CVE-2023-35036", "CVE-2023-35708", "CVE-2024-50623", "CVE-2024-55956"],
+    "source": "CISA AA23-158A (verified); Cleo CVE-2024-50623/55956 per CISA KEV ransomware flag + vendor reports Dec 2024"
+  },
+  "blackbasta": {
+    "cves": ["CVE-2020-1472", "CVE-2021-34527", "CVE-2021-42278", "CVE-2021-42287", "CVE-2024-1709"],
+    "source": "CISA AA24-131A (verified)"
+  },
+  "rhysida": {
+    "cves": ["CVE-2020-1472"],
+    "source": "CISA AA23-319A (verified)"
+  },
+  "qilin": {
+    "cves": ["CVE-2023-27532", "CVE-2024-21762"],
+    "source": "vendor-documented (Veeam CVE-2023-27532, FortiOS CVE-2024-21762); no CISA advisory fetched"
+  },
+  "fog": {
+    "cves": ["CVE-2024-40766"],
+    "source": "SonicWall PSIRT / Arctic Wolf Sept 2024 (vendor-documented)"
+  },
+  "cactus": {
+    "cves": ["CVE-2023-38035"],
+    "source": "CISA KEV knownRansomwareCampaignUse + vendor reports (Ivanti Sentry)"
+  }
+}

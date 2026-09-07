@@ -1,0 +1,333 @@
+{
+  "24m": {
+    "fst_cvss_sane": {
+      "auc": 0.7259,
+      "auc_ci": [
+        0.6859,
+        0.763
+      ],
+      "avg_precision": 0.0988,
+      "mannwhitney_p": 2.16850387024469e-20
+    },
+    "fst_cvss_fallback": {
+      "auc": 0.7934,
+      "auc_ci": [
+        0.7504,
+        0.8331
+      ],
+      "avg_precision": 0.2647,
+      "mannwhitney_p": 1.1597082059572728e-32
+    },
+    "fst_real_lin": {
+      "auc": 0.6133,
+      "auc_ci": [
+        0.5521,
+        0.6735
+      ],
+      "avg_precision": 0.1138,
+      "mannwhitney_p": 6.304640152724221e-06
+    },
+    "fst_real_log": {
+      "auc": 0.6802,
+      "auc_ci": [
+        0.6328,
+        0.7246
+      ],
+      "avg_precision": 0.0992,
+      "mannwhitney_p": 1.6288879318215346e-14
+    },
+    "fst_fb_real_lin": {
+      "auc": 0.6529,
+      "auc_ci": [
+        0.6077,
+        0.697
+      ],
+      "avg_precision": 0.1836,
+      "mannwhitney_p": 1.1986665918316994e-22
+    },
+    "fst_fb_real_log": {
+      "auc": 0.672,
+      "auc_ci": [
+        0.6199,
+        0.7265
+      ],
+      "avg_precision": 0.1982,
+      "mannwhitney_p": 1.1295144547646943e-12
+    },
+    "epss": {
+      "auc": 0.7179,
+      "auc_ci": [
+        0.6629,
+        0.7664
+      ],
+      "avg_precision": 0.2933,
+      "mannwhitney_p": 2.6331686660929472e-17
+    },
+    "cvss_base": {
+      "auc": 0.767,
+      "auc_ci": [
+        0.7325,
+        0.7984
+      ],
+      "avg_precision": 0.1191,
+      "mannwhitney_p": 3.593268747638212e-25
+    },
+    "exploitdb_binary": {
+      "auc": 0.5786,
+      "auc_ci": [
+        0.5404,
+        0.6174
+      ],
+      "avg_precision": 0.0696,
+      "mannwhitney_p": 1.648089309907877e-08
+    },
+    "real_log_minus_cvss_sane": {
+      "ci": [
+        -0.0989,
+        0.0037
+      ],
+      "p": 0.078
+    },
+    "fb_real_log_minus_fb_cvss": {
+      "ci": [
+        -0.1766,
+        -0.0686
+      ],
+      "p": 0.0
+    },
+    "fb_real_log_minus_epss": {
+      "ci": [
+        -0.0989,
+        0.0042
+      ],
+      "p": 0.07
+    },
+    "real_log_minus_real_lin": {
+      "ci": [
+        0.0306,
+        0.1101
+      ],
+      "p": 0.0
+    },
+    "fb_real_log_minus_cvss_base": {
+      "ci": [
+        -0.1579,
+        -0.0328
+      ],
+      "p": 0.002
+    }
+  },
+  "12m": {
+    "fst_cvss_sane": {
+      "auc": 0.7148,
+      "auc_ci": [
+        0.6613,
+        0.7695
+      ],
+      "avg_precision": 0.0568,
+      "mannwhitney_p": 6.043727964002941e-11
+    },
+    "fst_cvss_fallback": {
+      "auc": 0.7522,
+      "auc_ci": [
+        0.6938,
+        0.8033
+      ],
+      "avg_precision": 0.1041,
+      "mannwhitney_p": 2.9289181276256025e-14
+    },
+    "fst_real_lin": {
+      "auc": 0.5611,
+      "auc_ci": [
+        0.4752,
+        0.648
+      ],
+      "avg_precision": 0.0499,
+      "mannwhitney_p": 0.0413162362397504
+    },
+    "fst_real_log": {
+      "auc": 0.653,
+      "auc_ci": [
+        0.5854,
+        0.7164
+      ],
+      "avg_precision": 0.0488,
+      "mannwhitney_p": 1.0041089767739035e-06
+    },
+    "fst_fb_real_lin": {
+      "auc": 0.6062,
+      "auc_ci": [
+        0.5443,
+        0.6691
+      ],
+      "avg_precision": 0.0608,
+      "mannwhitney_p": 3.0858390353763833e-07
+    },
+    "fst_fb_real_log": {
+      "auc": 0.6263,
+      "auc_ci": [
+        0.5552,
+        0.6943
+      ],
+      "avg_precision": 0.0757,
+      "mannwhitney_p": 7.224854718599698e-05
+    },
+    "epss": {
+      "auc": 0.6993,
+      "auc_ci": [
+        0.6298,
+        0.7661
+      ],
+      "avg_precision": 0.1013,
+      "mannwhitney_p": 7.7542836830241e-09
+    },
+    "cvss_base": {
+      "auc": 0.7538,
+      "auc_ci": [
+        0.7033,
+        0.8015
+      ],
+      "avg_precision": 0.0683,
+      "mannwhitney_p": 2.557440074604936e-13
+    },
+    "exploitdb_binary": {
+      "auc": 0.5614,
+      "auc_ci": [
+        0.5148,
+        0.6135
+      ],
+      "avg_precision": 0.0342,
+      "mannwhitney_p": 0.0007260964897861065
+    },
+    "real_log_minus_cvss_sane": {
+      "ci": [
+        -0.1411,
+        0.0113
+      ],
+      "p": 0.095
+    },
+    "fb_real_log_minus_fb_cvss": {
+      "ci": [
+        -0.2056,
+        -0.0438
+      ],
+      "p": 0.006
+    },
+    "fb_real_log_minus_epss": {
+      "ci": [
+        -0.1505,
+        0.0022
+      ],
+      "p": 0.056
+    },
+    "real_log_minus_real_lin": {
+      "ci": [
+        0.0387,
+        0.1475
+      ],
+      "p": 0.0
+    },
+    "fb_real_log_minus_cvss_base": {
+      "ci": [
+        -0.2131,
+        -0.038
+      ],
+      "p": 0.005
+    }
+  },
+  "level_calibration_fst_real_log": [
+    {
+      "level": "low",
+      "n": 0,
+      "events": 0,
+      "rate": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "level": "medium",
+      "n": 2014,
+      "events": 62,
+      "rate": 0.0308,
+      "ci": [
+        0.0241,
+        0.0393
+      ]
+    },
+    {
+      "level": "high",
+      "n": 378,
+      "events": 41,
+      "rate": 0.1085,
+      "ci": [
+        0.081,
+        0.1438
+      ]
+    },
+    {
+      "level": "critical",
+      "n": 125,
+      "events": 27,
+      "rate": 0.216,
+      "ci": [
+        0.1529,
+        0.296
+      ]
+    }
+  ],
+  "level_calibration_fst_fb_real_log": [
+    {
+      "level": "low",
+      "n": 0,
+      "events": 0,
+      "rate": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "level": "medium",
+      "n": 2310,
+      "events": 83,
+      "rate": 0.0359,
+      "ci": [
+        0.0291,
+        0.0443
+      ]
+    },
+    {
+      "level": "high",
+      "n": 159,
+      "events": 24,
+      "rate": 0.1509,
+      "ci": [
+        0.1036,
+        0.2148
+      ]
+    },
+    {
+      "level": "critical",
+      "n": 48,
+      "events": 23,
+      "rate": 0.4792,
+      "ci": [
+        0.3447,
+        0.6167
+      ]
+    }
+  ],
+  "unique_scores": {
+    "fst_cvss_sane": 574,
+    "fst_cvss_fallback": 136,
+    "fst_real_lin": 384,
+    "fst_real_log": 428,
+    "fst_fb_real_lin": 36,
+    "fst_fb_real_log": 68,
+    "epss": 467,
+    "cvss_base": 71,
+    "exploitdb_binary": 2
+  }
+}

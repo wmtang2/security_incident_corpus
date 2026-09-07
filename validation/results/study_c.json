@@ -1,0 +1,77 @@
+{
+  "n_incidents": {
+    "hhs": 7794,
+    "wa": 1617,
+    "prc": 295
+  },
+  "per_record_usd": {
+    "hhs": 408.0,
+    "wa": 165.0,
+    "prc": 165.0
+  },
+  "loss_stats_usd": {
+    "hhs": {
+      "median": 1597728.0,
+      "p90": 41063037.6,
+      "p99": 786251328.7199972,
+      "max": 78621600000.0
+    },
+    "wa": {
+      "median": 312840.0,
+      "p90": 5739756.000000006,
+      "p99": 95392314.59999965,
+      "max": 535204560.0
+    },
+    "prc": {
+      "median": 349140.0,
+      "p90": 17719878.000000007,
+      "p99": 175959385.80000007,
+      "max": 1320000000.0
+    }
+  },
+  "model_scale": {
+    "linear_universe": {
+      "median_universe": 0.01194828,
+      "p99_universe": 6.181698168000048,
+      "frac_max_membership_lt_0.05": 0.006696888522563363,
+      "frac_classified_low_dominant": 0.9871213682258397
+    },
+    "low_per_record_100": {
+      "median_universe": 0.003402,
+      "frac_max_membership_lt_0.05": 0.0010302905419328251
+    },
+    "high_per_record_500": {
+      "median_universe": 0.01701,
+      "frac_max_membership_lt_0.05": 0.008345353389655884
+    },
+    "n_over_1B": 65,
+    "frac_over_1B": 0.006696888522563363
+  },
+  "engine_normalization_demo": {
+    "Equifax $1.4B": {
+      "error": "ValueError: Values [1.4e+09] for scale 'loss_magnitude' must be within real-world [0.0, 1000000000.0] USD or already normalized to ["
+    },
+    "Merck $0.87B": {
+      "universe": 8.7
+    },
+    "median breach": {
+      "universe": 0.01194828
+    }
+  },
+  "log_repair": {
+    "median_universe": 6.752561942565684,
+    "band_share": {
+      "low": 0.008448382443849165,
+      "medium": 0.6420770657325365,
+      "high": 0.362868328868741
+    },
+    "examples": {
+      "$100k": 5.56,
+      "$1M": 6.67,
+      "$4.88M": 7.43,
+      "$50M": 8.55,
+      "$400M": 9.56,
+      "$1B": 10.0
+    }
+  }
+}

@@ -1,0 +1,559 @@
+[
+ {
+  "org": "BRANDYWINE REALTY TRUST",
+  "file_date": "2024-05-28",
+  "url": "https://www.sec.gov/Archives/edgar/data/790816/000119312524147625/d774339d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UNITED NATURAL FOODS INC",
+  "file_date": "2025-06-26",
+  "url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000036/unfi-20250621.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "AMGEN INC",
+  "file_date": "2026-07-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000119/amgn-20260729.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "DATA I/O CORP",
+  "file_date": "2025-08-21",
+  "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425009925/daio_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "SONIC AUTOMOTIVE INC",
+  "file_date": "2024-08-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350924000063/sah-20240705.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "DATA I/O CORP",
+  "file_date": "2025-09-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425010613/daio_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "8X8 INC /DE/",
+  "file_date": "2026-06-23",
+  "url": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000084/eght-20260617.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "CareCloud, Inc.",
+  "file_date": "2026-03-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1582982/000149315226013239/form8-k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "iRhythm Holdings, Inc.",
+  "file_date": "2026-06-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000055/irtc-20260610.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "LEE ENTERPRISES, Inc",
+  "file_date": "2025-03-06",
+  "url": "https://www.sec.gov/Archives/edgar/data/58361/000162828025010944/lee-20250212.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "NUCOR CORP",
+  "file_date": "2025-06-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312525143135/d926586d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "AdaptHealth Corp.",
+  "file_date": "2026-07-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1725255/000110465926080297/ahco-20260627x8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Bitcoin Depot Inc.",
+  "file_date": "2026-04-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/btm-20260406.htm",
+  "amount_mentions": [
+   "$3.665 million",
+   "$3.665 million"
+  ]
+ },
+ {
+  "org": "F5, INC.",
+  "file_date": "2025-10-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/1048695/000104869525000149/ffiv-20251015.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "AT&T INC.",
+  "file_date": "2024-07-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271724000046/t-20240506.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "River Financial Corp",
+  "file_date": "2026-06-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526282946/ck0001641601-20260619.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "River Financial Corp",
+  "file_date": "2026-07-17",
+  "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526307288/ck0001641601-20260619.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "River Financial Corp",
+  "file_date": "2026-07-06",
+  "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526295704/ck0001641601-20260619.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Federal Home Loan Bank of New York",
+  "file_date": "2024-03-01",
+  "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495424002505/fhlbny_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "River Financial Corp",
+  "file_date": "2026-07-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526300763/ck0001641601-20260619.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "River Financial Corp",
+  "file_date": "2026-07-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526325324/ck0001641601-20260619.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "GLOBE LIFE INC.",
+  "file_date": "2024-06-14",
+  "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033524000029/gl-20240614.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "DICK'S SPORTING GOODS, INC.",
+  "file_date": "2024-08-28",
+  "url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906324000104/dks-20240821.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Karat Packaging Inc.",
+  "file_date": "2024-10-23",
+  "url": "https://www.sec.gov/Archives/edgar/data/1758021/000121390024089965/ea0218366-8k_karat.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "NAVIENT CORP",
+  "file_date": "2026-07-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/1593538/000114036126027441/ef20077249_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "KEY TRONIC CORP",
+  "file_date": "2024-05-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000015/ktcc-20240506.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "ENGLOBAL CORP",
+  "file_date": "2024-12-02",
+  "url": "https://www.sec.gov/Archives/edgar/data/933738/000165495424015098/eng_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "WYTEC INTERNATIONAL INC",
+  "file_date": "2025-08-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/1560143/000168316825006583/wytec_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "WYTEC INTERNATIONAL INC",
+  "file_date": "2026-02-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/1560143/000168316826000732/wytec_8ka1.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Frontier Communications Parent, Inc.",
+  "file_date": "2024-04-18",
+  "url": "https://www.sec.gov/Archives/edgar/data/20520/000119312524100764/d784189d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UNITEDHEALTH GROUP INC",
+  "file_date": "2024-02-22",
+  "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000045/unh-20240221.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "NATIONAL PRESTO INDUSTRIES INC",
+  "file_date": "2025-03-06",
+  "url": "https://www.sec.gov/Archives/edgar/data/80172/000143774925006475/npk20250306_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "MARINEMAX INC",
+  "file_date": "2024-03-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1057060/000095017024030041/hzo-20240310.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "First American Financial Corp",
+  "file_date": "2023-12-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017023073848/faf-20231220.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "CB Financial Services, Inc.",
+  "file_date": "2026-05-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000021/cbfv-20260507.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UNITEDHEALTH GROUP INC",
+  "file_date": "2024-04-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000150/unh-20240221.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "LEE ENTERPRISES, Inc",
+  "file_date": "2025-02-18",
+  "url": "https://www.sec.gov/Archives/edgar/data/58361/000162828025005855/lee-20250212.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Cencora, Inc.",
+  "file_date": "2024-02-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465924028288/tm247267d1_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "First American Financial Corp",
+  "file_date": "2023-12-22",
+  "url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017023072513/faf-20231220.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "PRUDENTIAL FINANCIAL INC",
+  "file_date": "2024-02-13",
+  "url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524033753/d770643d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "MICROSOFT CORP",
+  "file_date": "2024-01-19",
+  "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312524011295/d708866d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "META MATERIALS INC.",
+  "file_date": "2024-08-01",
+  "url": "https://www.sec.gov/Archives/edgar/data/1431959/000095017024089345/mmat-20240725.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "HALLIBURTON CO",
+  "file_date": "2024-09-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501224000052/hal-20240830.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UPBOUND GROUP, INC.",
+  "file_date": "2026-07-22",
+  "url": "https://www.sec.gov/Archives/edgar/data/933036/000119312526310605/upbd-20260721.htm",
+  "amount_mentions": [
+   "$13 million"
+  ]
+ },
+ {
+  "org": "BayFirst Financial Corp.",
+  "file_date": "2025-10-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1649739/000164973925000246/bafn-20251028.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Hewlett Packard Enterprise Co",
+  "file_date": "2024-01-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000009/hpe-20240119.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UNITEDHEALTH GROUP INC",
+  "file_date": "2024-03-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000085/unh-20240221.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "PRUDENTIAL FINANCIAL INC",
+  "file_date": "2024-02-21",
+  "url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524040749/d766318d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Zoomcar Holdings, Inc.",
+  "file_date": "2025-06-13",
+  "url": "https://www.sec.gov/Archives/edgar/data/1854275/000121390025054319/ea0245724-8k_zoomcar.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "MARINEMAX INC",
+  "file_date": "2024-04-01",
+  "url": "https://www.sec.gov/Archives/edgar/data/1057060/000095017024038881/hzo-20240310.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "NUCOR CORP",
+  "file_date": "2025-05-14",
+  "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312525119311/d795264d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "KEY TRONIC CORP",
+  "file_date": "2024-06-14",
+  "url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000035/ktcc-20240506.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "TRIO-TECH INTERNATIONAL",
+  "file_date": "2026-03-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/732026/000143774926009193/trt20260320_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "WEST PHARMACEUTICAL SERVICES INC",
+  "file_date": "2026-05-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000077/wst-20260507.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Sensata Technologies Holding plc",
+  "file_date": "2025-04-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/1477294/000147729425000047/st-20250406.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "First American Financial Corp",
+  "file_date": "2024-01-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1472787/000095017024004247/faf-20231220.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "RADIANT LOGISTICS, INC",
+  "file_date": "2024-03-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/1171155/000095017024033954/rlgt-20240319.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "KEY TRONIC CORP",
+  "file_date": "2024-08-06",
+  "url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000047/ktcc-20240506.htm",
+  "amount_mentions": [
+   "$2.3 million",
+   "$15 million"
+  ]
+ },
+ {
+  "org": "ORASURE TECHNOLOGIES INC",
+  "file_date": "2024-04-12",
+  "url": "https://www.sec.gov/Archives/edgar/data/1116463/000119312524094797/d825009d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "SONIC AUTOMOTIVE INC",
+  "file_date": "2024-07-05",
+  "url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350924000060/sah-20240705.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "MICROSOFT CORP",
+  "file_date": "2024-03-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312524062997/d808756d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "ENGLOBAL CORP",
+  "file_date": "2025-01-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/933738/000165495425000798/eng_8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "JEWETT CAMERON TRADING CO LTD",
+  "file_date": "2025-10-21",
+  "url": "https://www.sec.gov/Archives/edgar/data/885307/000107997325001631/jctc_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Krispy Kreme, Inc.",
+  "file_date": "2024-12-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/1857154/000185715424000123/dnut-20241211.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Cencora, Inc.",
+  "file_date": "2024-07-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465924084351/tm2420501d1_8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "SouthState Corp",
+  "file_date": "2024-03-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/764038/000155837024004390/ssb-20240206x8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "CONDUENT Inc",
+  "file_date": "2025-04-14",
+  "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770325000067/cndt-20250409.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "V F CORP",
+  "file_date": "2023-12-18",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/d659095d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Coupang, Inc.",
+  "file_date": "2025-12-16",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000196/cpng-20251215.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Oncology Institute, Inc.",
+  "file_date": "2026-05-22",
+  "url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326000721/toi_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "B. Riley Financial, Inc.",
+  "file_date": "2024-04-08",
+  "url": "https://www.sec.gov/Archives/edgar/data/1464790/000121390024031252/ea0203500-8k_briley.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Crimson Wine Group, Ltd",
+  "file_date": "2024-07-25",
+  "url": "https://www.sec.gov/Archives/edgar/data/1562151/000156215124000032/cwgl-20240725.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "WEST PHARMACEUTICAL SERVICES INC",
+  "file_date": "2026-05-11",
+  "url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000068/wst-20260507.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "DROPBOX, INC.",
+  "file_date": "2024-05-01",
+  "url": "https://www.sec.gov/Archives/edgar/data/1467623/000146762324000024/dbx-20240429.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Coinbase Global, Inc.",
+  "file_date": "2025-05-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm",
+  "amount_mentions": [
+   "$180 million",
+   "$400 million"
+  ]
+ },
+ {
+  "org": "BASSETT FURNITURE INDUSTRIES INC",
+  "file_date": "2024-08-06",
+  "url": "https://www.sec.gov/Archives/edgar/data/10329/000143774924024679/bset20240805_8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "BASSETT FURNITURE INDUSTRIES INC",
+  "file_date": "2024-07-15",
+  "url": "https://www.sec.gov/Archives/edgar/data/10329/000143774924022743/bset20240715_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "UFP TECHNOLOGIES INC",
+  "file_date": "2026-02-24",
+  "url": "https://www.sec.gov/Archives/edgar/data/914156/000162828026011152/ufpt-20260219.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Coupang, Inc.",
+  "file_date": "2025-12-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000202/cpng-20251215.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Nutex Health Inc.",
+  "file_date": "2026-08-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026059602/nutx-20260831.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "BRANDYWINE REALTY TRUST",
+  "file_date": "2024-05-07",
+  "url": "https://www.sec.gov/Archives/edgar/data/790816/000119312524133132/d824906d8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "STRYKER CORP",
+  "file_date": "2026-04-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526149607/d112875d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "V F CORP",
+  "file_date": "2024-01-18",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000119312524010243/d641969d8ka.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "SouthState Corp",
+  "file_date": "2024-02-09",
+  "url": "https://www.sec.gov/Archives/edgar/data/764038/000095010324002017/dp206600_8k.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "iLearningEngines, Inc.",
+  "file_date": "2024-11-18",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390024099394/ea0221424-8k_ilearning.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Meridian Corp",
+  "file_date": "2025-02-20",
+  "url": "https://www.sec.gov/Archives/edgar/data/1750735/000110465925015733/tm256723d2_ex10-1.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Vivos Therapeutics, Inc.",
+  "file_date": "2026-08-03",
+  "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226035867/ex10-2.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Alto Ingredients, Inc.",
+  "file_date": "2026-08-07",
+  "url": "https://www.sec.gov/Archives/edgar/data/778164/000121390026086750/ea030067001ex10-1.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "CID Holdco, Inc.",
+  "file_date": "2026-07-22",
+  "url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026080208/ea029882601ex10-1.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "DATA I/O CORP",
+  "file_date": "2025-09-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425010613/daio_ex990.htm",
+  "amount_mentions": []
+ },
+ {
+  "org": "Coupang, Inc.",
+  "file_date": "2025-12-29",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000202/a8-kamendmenttoitem105ex991.htm",
+  "amount_mentions": []
+ }
+]

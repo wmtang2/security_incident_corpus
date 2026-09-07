@@ -1,0 +1,226 @@
+{
+  "cases": [
+    {
+      "incident": "Equifax",
+      "cve": "CVE-2017-5638",
+      "date": "2017-03-10",
+      "cost_usd": 1400000000.0,
+      "source": "10-K: $1.38B + $700M settlement",
+      "epss_used": 0.94129,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": true,
+      "sane_potential": 90.3,
+      "fb_potential": 91.36,
+      "sane_realized": 90.3,
+      "fb_realized": 92.65,
+      "fb_realized_level": "critical"
+    },
+    {
+      "incident": "Merck (NotPetya)",
+      "cve": "CVE-2017-0144",
+      "date": "2017-06-27",
+      "cost_usd": 870000000.0,
+      "source": "FY2017 10-K ~$870M",
+      "epss_used": 0.95856,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": true,
+      "sane_potential": 90.21,
+      "fb_potential": 91.36,
+      "sane_realized": 90.21,
+      "fb_realized": 92.65,
+      "fb_realized_level": "critical"
+    },
+    {
+      "incident": "FedEx/TNT (NotPetya)",
+      "cve": "CVE-2017-0144",
+      "date": "2017-06-27",
+      "cost_usd": 400000000.0,
+      "source": "FY2018 ~$400M",
+      "epss_used": 0.95856,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": true,
+      "sane_potential": 90.21,
+      "fb_potential": 91.36,
+      "sane_realized": 90.21,
+      "fb_realized": 92.65,
+      "fb_realized_level": "critical"
+    },
+    {
+      "incident": "Maersk (NotPetya)",
+      "cve": "CVE-2017-0144",
+      "date": "2017-06-27",
+      "cost_usd": 300000000.0,
+      "source": "Q2-17 ~$250-300M",
+      "epss_used": 0.95856,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": true,
+      "sane_potential": 90.21,
+      "fb_potential": 91.36,
+      "sane_realized": 90.21,
+      "fb_realized": 92.65,
+      "fb_realized_level": "critical"
+    },
+    {
+      "incident": "NHS (WannaCry)",
+      "cve": "CVE-2017-0144",
+      "date": "2017-05-12",
+      "cost_usd": 120000000.0,
+      "source": "UK DoH est. \u00a392M",
+      "epss_used": 0.95856,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": true,
+      "sane_potential": 90.21,
+      "fb_potential": 91.36,
+      "sane_realized": 90.21,
+      "fb_realized": 92.65,
+      "fb_realized_level": "critical"
+    },
+    {
+      "incident": "Rackspace (ProxyNotShell)",
+      "cve": "CVE-2022-41082",
+      "date": "2022-12-02",
+      "cost_usd": 12000000.0,
+      "source": "10-Q ~$12M (approx)",
+      "epss_used": 0.31667,
+      "epss_note": "@2022-12-01",
+      "exploit_public_before": false,
+      "sane_potential": 70.0,
+      "fb_potential": 46.28,
+      "sane_realized": 70.0,
+      "fb_realized": 56.54,
+      "fb_realized_level": "high"
+    },
+    {
+      "incident": "Accellion FTA victims",
+      "cve": "CVE-2021-27101",
+      "date": "2020-12-20",
+      "cost_usd": 8100000.0,
+      "source": "2023 settlement $8.1M",
+      "epss_used": 0.00624,
+      "epss_note": "@2021-07-19",
+      "exploit_public_before": false,
+      "sane_potential": 56.75,
+      "fb_potential": 42.21,
+      "sane_realized": 60.66,
+      "fb_realized": 45.12,
+      "fb_realized_level": "medium"
+    },
+    {
+      "incident": "MOVEit/Cl0p",
+      "cve": "CVE-2023-34362",
+      "date": "2023-05-31",
+      "cost_usd": 4200000.0,
+      "source": "Progress 10-Q direct costs (conservative)",
+      "epss_used": 0.001,
+      "epss_note": "none (0-day)",
+      "exploit_public_before": false,
+      "sane_potential": 55.0,
+      "fb_potential": 42.21,
+      "sane_realized": 55.0,
+      "fb_realized": 41.44,
+      "fb_realized_level": "medium"
+    },
+    {
+      "incident": "GoAnywhere/Cl0p",
+      "cve": "CVE-2023-0669",
+      "date": "2023-02-01",
+      "cost_usd": 4200000.0,
+      "source": "no disclosed $; placeholder bucket",
+      "epss_used": 0.001,
+      "epss_note": "none (0-day)",
+      "exploit_public_before": false,
+      "sane_potential": 55.0,
+      "fb_potential": 39.31,
+      "sane_realized": 55.0,
+      "fb_realized": 41.44,
+      "fb_realized_level": "medium"
+    }
+  ],
+  "controls": [
+    {
+      "cve": "CVE-2021-23682",
+      "cvss_base": "9.8",
+      "epss": "0.01483",
+      "sane_potential": 44.28,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2004-2016",
+      "cvss_base": "7.5",
+      "epss": "0.05045",
+      "sane_potential": 70.0,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-1999-0583",
+      "cvss_base": "10.0",
+      "epss": "0.015",
+      "sane_potential": 44.28,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2007-5527",
+      "cvss_base": "7.5",
+      "epss": "0.01262",
+      "sane_potential": 44.28,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2021-46010",
+      "cvss_base": "8.8",
+      "epss": "0.00552",
+      "sane_potential": 56.75,
+      "fb_potential": 42.21,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2021-35336",
+      "cvss_base": "9.8",
+      "epss": "0.13449",
+      "sane_potential": 70.0,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2021-30232",
+      "cvss_base": "9.8",
+      "epss": "0.00771",
+      "sane_potential": 55.0,
+      "fb_potential": 39.31,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2019-16993",
+      "cvss_base": "8.8",
+      "epss": "0.00553",
+      "sane_potential": 44.28,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2021-27177",
+      "cvss_base": "9.8",
+      "epss": "0.00842",
+      "sane_potential": 44.28,
+      "fb_potential": 27.36,
+      "fb_level": "medium"
+    },
+    {
+      "cve": "CVE-2001-0191",
+      "cvss_base": "10.0",
+      "epss": "0.00597",
+      "sane_potential": 55.0,
+      "fb_potential": 39.31,
+      "fb_level": "medium"
+    }
+  ],
+  "case_vs_control_mwu_p": 0.0002152446803637806,
+  "case_median_fb_potential": 91.36,
+  "control_median_fb_potential": 27.36,
+  "spearman_logcost_vs_fb_realized": 0.9121034881575905,
+  "spearman_p": 0.000607755786678715
+}

@@ -1,0 +1,182 @@
+{
+  "n": 24,
+  "spearman_score_vs_log_obs_ale": 0.6108733601867427,
+  "p": 0.0015202942360342277,
+  "r2": 0.7684447980836426,
+  "slope": 0.09267944624101128,
+  "intercept": -1.3044848970903389,
+  "loo_median_ratio": 1.0600050576586828,
+  "loo_geomean_ratio": 1.130868858273307,
+  "min_observed_ale": 4.1052,
+  "max_observed_ale": 1610700.0,
+  "points": [
+    {
+      "sector": "healthcare",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 4332.215514606742,
+      "predicted_ale_usd": 223.03153398702344
+    },
+    {
+      "sector": "healthcare",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 168.42790112359552,
+      "predicted_ale_usd": 257.30812502290337
+    },
+    {
+      "sector": "healthcare",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 40.192584269662916,
+      "predicted_ale_usd": 31.918670083751216
+    },
+    {
+      "sector": "Business",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 66.5292375,
+      "predicted_ale_usd": 268.0482334958393
+    },
+    {
+      "sector": "Business",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 40.0,
+      "observed_ale_usd": 41.949325,
+      "predicted_ale_usd": 273.5460576382295
+    },
+    {
+      "sector": "Business",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 7.132125,
+      "predicted_ale_usd": 36.21001024996845
+    },
+    {
+      "sector": "Health",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 1569.76875,
+      "predicted_ale_usd": 233.22517973756018
+    },
+    {
+      "sector": "Health",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 269.71999999999997,
+      "predicted_ale_usd": 252.02903664867318
+    },
+    {
+      "sector": "Health",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 55.660000000000004,
+      "predicted_ale_usd": 31.16945103080401
+    },
+    {
+      "sector": "Finance",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 548.3016,
+      "predicted_ale_usd": 244.27916506829146
+    },
+    {
+      "sector": "Finance",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 40.0,
+      "observed_ale_usd": 198.605,
+      "predicted_ale_usd": 255.4479454289673
+    },
+    {
+      "sector": "Finance",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 25.5816,
+      "predicted_ale_usd": 32.98829607909779
+    },
+    {
+      "sector": "Education",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 1528.23,
+      "predicted_ale_usd": 233.50069904692
+    },
+    {
+      "sector": "Education",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 40.0,
+      "observed_ale_usd": 272.745,
+      "predicted_ale_usd": 251.90532114866176
+    },
+    {
+      "sector": "Education",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 73.557,
+      "predicted_ale_usd": 30.541875754117587
+    },
+    {
+      "sector": "Government",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 1944.382,
+      "predicted_ale_usd": 231.0380774872507
+    },
+    {
+      "sector": "Government",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 40.00000000000001,
+      "observed_ale_usd": 214.72,
+      "predicted_ale_usd": 254.5720794902228
+    },
+    {
+      "sector": "Government",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 18.7,
+      "predicted_ale_usd": 33.751108550740184
+    },
+    {
+      "sector": "Non-Profit/Charity",
+      "scenario": "hacking_incident",
+      "score": 39.99999999999999,
+      "observed_ale_usd": 140.2368,
+      "predicted_ale_usd": 259.39148737255107
+    },
+    {
+      "sector": "Non-Profit/Charity",
+      "scenario": "unauthorized_access_disclosure",
+      "score": 40.0,
+      "observed_ale_usd": 4.1052,
+      "predicted_ale_usd": 303.01779234625127
+    },
+    {
+      "sector": "Non-Profit/Charity",
+      "scenario": "theft_loss_misdisposal",
+      "score": 30.377134527280276,
+      "observed_ale_usd": 5.1403,
+      "predicted_ale_usd": 37.08557943725346
+    },
+    {
+      "sector": "all_industries",
+      "scenario": "ransomware",
+      "score": 92.65151515151516,
+      "observed_ale_usd": 1610700.0,
+      "predicted_ale_usd": 713060208.9562272
+    },
+    {
+      "sector": "all_industries",
+      "scenario": "phishing",
+      "score": 70.00000000000007,
+      "observed_ale_usd": 732000.0,
+      "predicted_ale_usd": 99741.69575111674
+    },
+    {
+      "sector": "all_industries",
+      "scenario": "stolen_creds",
+      "score": 61.672897196261715,
+      "observed_ale_usd": 384800.0,
+      "predicted_ale_usd": 17381.39429214718
+    }
+  ]
+}

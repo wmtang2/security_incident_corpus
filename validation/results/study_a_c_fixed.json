@@ -1,0 +1,150 @@
+{
+  "cases": [
+    {
+      "incident": "Equifax",
+      "cost_usd": 1400000000.0,
+      "tef": 0.941,
+      "vuln": 0.85,
+      "score": 91.86,
+      "level": "critical"
+    },
+    {
+      "incident": "Merck (NotPetya)",
+      "cost_usd": 870000000.0,
+      "tef": 0.959,
+      "vuln": 0.85,
+      "score": 91.68,
+      "level": "critical"
+    },
+    {
+      "incident": "FedEx/TNT (NotPetya)",
+      "cost_usd": 400000000.0,
+      "tef": 0.959,
+      "vuln": 0.85,
+      "score": 91.38,
+      "level": "critical"
+    },
+    {
+      "incident": "Maersk (NotPetya)",
+      "cost_usd": 300000000.0,
+      "tef": 0.959,
+      "vuln": 0.85,
+      "score": 91.46,
+      "level": "critical"
+    },
+    {
+      "incident": "NHS (WannaCry)",
+      "cost_usd": 120000000.0,
+      "tef": 0.959,
+      "vuln": 0.85,
+      "score": 91.92,
+      "level": "critical"
+    },
+    {
+      "incident": "Rackspace (ProxyNotShell)",
+      "cost_usd": 12000000.0,
+      "tef": 0.317,
+      "vuln": 0.25,
+      "score": 41.57,
+      "level": "medium"
+    },
+    {
+      "incident": "Accellion FTA victims",
+      "cost_usd": 8100000.0,
+      "tef": 0.006,
+      "vuln": 0.25,
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "incident": "MOVEit/Cl0p (0-day)",
+      "cost_usd": 4200000.0,
+      "tef": 0.001,
+      "vuln": 0.25,
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "incident": "GoAnywhere/Cl0p (0-day)",
+      "cost_usd": 4200000.0,
+      "tef": 0.001,
+      "vuln": 0.25,
+      "score": 23.38,
+      "level": "low"
+    }
+  ],
+  "controls": [
+    {
+      "cve": "CVE-2021-35336",
+      "cvss_base": "9.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2021-30232",
+      "cvss_base": "9.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2001-0191",
+      "cvss_base": "10.0",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-1999-0583",
+      "cvss_base": "10.0",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2021-23682",
+      "cvss_base": "9.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2007-5527",
+      "cvss_base": "7.5",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2021-27177",
+      "cvss_base": "9.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2021-46010",
+      "cvss_base": "8.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2019-16993",
+      "cvss_base": "8.8",
+      "score": 23.38,
+      "level": "low"
+    },
+    {
+      "cve": "CVE-2004-2016",
+      "cvss_base": "7.5",
+      "score": 23.38,
+      "level": "low"
+    }
+  ],
+  "case_control_mwu_p": 0.0017533650540964719,
+  "study_c_fixed": {
+    "median_universe": 5.064421457168463,
+    "band_share": {
+      "low": 0.0031939006799917577,
+      "medium": 0.9809396249742427,
+      "high": 0.015866474345765505
+    },
+    "over_range_rejected": 0,
+    "max_loss_usd": 78621600000.0,
+    "max_loss_universe": 9.079618231458719
+  }
+}
